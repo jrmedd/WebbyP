@@ -9,17 +9,17 @@ I wasn't aware of any off-the-shelf batch converters – other than [webpify](ht
 ## Installation
 
 * Download and unzip this repo
+* Double click the **WebbyP** workflow file in the resulting **WebbyP-master** folder
 * You can go ahead and delete the **README.md** and **webbyp.gif** files, unless you want to keep them.
-* Double click the **WebbyP** workflow file in the resulting **webbyp** folder 
-* Ensure the *Folder Action will be attached to:* has **webbyp** (this directory) selected and click *Install* and *Done*. The workflow file will now disappear.
-* Right-click or Ctrl+click the **webbyp** folder and click *Folder Actions Setup*.
+* Ensure the *Folder Action will be attached to:* has **WebbyP-master** (this directory) selected and click *Install* and *Done*. The workflow file will now disappear.
+* Right-click or Ctrl+click the **WebbyP-master** folder and click *Folder Actions Setup*.
 * Click *Run Service*, if prompted.
 * In the right-hand column of the *Folder Actions Setup* window, click the *+* icon underneath and select **WebbyP** from the list of scripts, click the *Attach* button to confirm this.
 * Close the *Folder Actions Setup* window and the installation is complete.
 
 ## Usage
 
-* Drag and drop PNGs into the *webbyp* folder.
+* Drag and drop PNGs into the **WebbyP-master** folder.
 * On your first use, **png** and **webp** folders will appear.
 * The folder action will move your PNGs into the **png** folder, and resulting WebP images will appear in the **webp** folder.
 * At the time of writing, any files with the same name will be overwritten without warning, so be careful.
